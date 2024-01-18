@@ -1,8 +1,10 @@
-# React + Vite
+Project
+  - Application is build using react and tailwind for frontend and firebase for backend like authentication.
+  - Used react router for navigation.
+  - Fetches user profile and user repositories from github public API
+  - performs authentication and authorization
+  - perform signIn and signUp using firebase method.
+  - search feature fetches user github profile.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Steps to run locally
+1. clone the project : 
