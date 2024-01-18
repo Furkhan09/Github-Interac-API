@@ -7,4 +7,7 @@ Project
   - search feature fetches user github profile.
 
 Steps to run locally
-1. clone the project : 
+1. clone the project : https://github.com/Furkhan09/Github-Interac-API.git
+2. move to project directory by using this command : cd Github-Interac-API
+3. install the necessary packages by using this command : npm install
+4. run the application by the command: npm run dev
